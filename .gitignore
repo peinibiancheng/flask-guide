@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+#DB
+*.db
+# IDE
+.idea/
+.vscode/
+
+
+=======
+>>>>>>> 7e0dbf195631664674c02684504f78503c0b8f45
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
